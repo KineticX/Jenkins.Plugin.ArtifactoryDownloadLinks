@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.ArtifactoryDownloadLinks' artifactId='artifactoryDownloadLinks' version='1.0.0'><l:dependency name='Artifactory Download Links' groupId='org.ArtifactoryDownloadLinks' artifactId='artifactoryDownloadLinks' version='1.0.0' url='http://jenkins-ci.org/plugin/artifactoryDownloadLinks/'><l:description>Creates links for Artifactory published modules directly in Jenkins build info pages. Author: Jonathan McAllister (www.continuousautomation.com)</l:description></l:dependency></l:dependencies>

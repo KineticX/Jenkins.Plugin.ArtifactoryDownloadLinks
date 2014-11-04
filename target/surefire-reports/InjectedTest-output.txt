@@ -1,0 +1,52 @@
+Exploding /Users/admin/.m2/repository/org/jenkins-ci/main/jenkins-war/1.575/jenkins-war-1.575-war-for-test.jar into /Users/admin/Desktop/GIT/Jenkins.Plugin.ArtifactoryLinks/./target/jenkins-for-test
+Nov 4, 2014 9:21:43 AM org.mortbay.log.Slf4jLog info
+INFO: Logging to org.slf4j.impl.JDK14LoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+Nov 4, 2014 9:21:43 AM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Nov 4, 2014 9:21:43 AM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+Nov 4, 2014 9:21:43 AM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:51041
+Nov 4, 2014 9:21:46 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Nov 4, 2014 9:21:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Nov 4, 2014 9:21:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Nov 4, 2014 9:21:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Nov 4, 2014 9:21:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Nov 4, 2014 9:21:54 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Nov 4, 2014 9:22:02 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+Nov 4, 2014 9:22:03 AM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Nov 4, 2014 9:22:03 AM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:51044
+Nov 4, 2014 9:22:05 AM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:51041
+Nov 4, 2014 9:22:05 AM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Nov 4, 2014 9:22:05 AM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+Nov 4, 2014 9:22:05 AM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:51046
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Nov 4, 2014 9:22:05 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Nov 4, 2014 9:22:06 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting CliSanityTest.testCliSanity
+Nov 4, 2014 9:22:06 AM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:51046

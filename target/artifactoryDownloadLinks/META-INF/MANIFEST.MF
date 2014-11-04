@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: admin
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_51
+Extension-Name: artifactoryDownloadLinks
+Specification-Title: Creates links for Artifactory published modules d
+ irectly in Jenkins build info pages. Author: Jonathan McAllister (www
+ .continuousautomation.com)
+Implementation-Title: artifactoryDownloadLinks
+Implementation-Version: 1.0.0
+Group-Id: org.ArtifactoryDownloadLinks
+Short-Name: artifactoryDownloadLinks
+Long-Name: Artifactory Download Links
+Url: http://jenkins-ci.org/plugin/artifactoryDownloadLinks/
+Plugin-Version: 1.0.0
+Hudson-Version: 1.575
+Jenkins-Version: 1.575
+Plugin-Developers: 
+
