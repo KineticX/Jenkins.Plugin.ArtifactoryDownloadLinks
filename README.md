@@ -1,4 +1,4 @@
 Jenkins.Plugin.ArtifactoryLinks
 ===============================
 
-ArtifactoryLinks grabs the links for an artifactory published module from the build log and puts the link directly in jenkins build page of each build
+Artifactory Download Links Creates links for Artifactory published modules directly in Jenkins build info pages to allow for tighter integration with Jenkins. 
